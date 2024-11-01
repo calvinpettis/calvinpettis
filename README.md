@@ -14,7 +14,7 @@
 
 ---
 
-### :technologist: About Me : I am a student at Appalachian State University. <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNycXB4eHF4cjlkYXI5anppN3J4aGRybXgyYWZhaGtmdXdoNHNkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6T26O3OFa0TAKMwyh0/giphy.gif" width="30">
+### :technologist: About Me : I am a student at Appalachian State University. <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNycXB4eHF4cjlkYXI5anppN3J4aGRybXgyYWZhaGtmdXdoNHNkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6T26O3OFa0TAKMwyh0/giphy.gif" width="60">
 - :telescope: I’m working towards a degree in Computer Science and a master's in Cybersecurity.
 
 - :seedling: Exploring all different paths of CS, from networking, game dev, mathematics, security, software
