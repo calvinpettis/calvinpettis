@@ -21,6 +21,10 @@
 
 - :guitar: In my free time, I enjoy coding projects, playing music, exercising, and being outdoors.
 
+---
+
+### :writing_hand: Portfolio :
+- 💼 https://github.com/innovationsquared.io
 
 ---
 
