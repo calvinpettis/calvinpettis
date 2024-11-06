@@ -9,8 +9,9 @@
 </div>
 
 <h1>
-  hi :) I'm Cal
+  Hi 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    I'm Cal :)
 </h1>
 
 ---
