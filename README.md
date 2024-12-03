@@ -26,7 +26,7 @@
 ---
 
 ### :writing_hand: Portfolio :
-- 💼 https://github.com/innovationsquared.io
+- 💼 [Click Here](https://innovationsquared.github.io)
 
 ---
 
